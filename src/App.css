@@ -34,6 +34,19 @@ justify-content: space-between;
 	font-weight: bolder;
 	font-size: 20px;
 }
+.conector{
+	border: none;
+	padding: 20px;
+	color:white;
+	background:none;
+	font-weight: bolder;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+
+
+
 .divContainer > ul >ol >button:hover{
 	transform: scale(1.1);
 	cursor: pointer;

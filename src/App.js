@@ -1,15 +1,32 @@
-import Main from "components/main";
-import Header from "components/Header.jsx";
-import Footer from "components/footer.jsx";
+import Index from 'pagues';
+import Proyectos from 'pagues/proyectos';
 import 'App.css';
 import { Component } from 'react';
+import React from "react";
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+} from "react-router-dom";
+
 
 function App() {
   return (
+
     <div className="App">
- <Header />
-	<Main />
-	<Footer />
+     <Router>
+					<Switch>
+						<Route path="/Proyectos.jsx">
+								<Proyectos/>
+						</Route>
+							<Route path="/">
+								<Index/>
+						</Route>
+				</Switch>
+					</Router>
+
+
+
     </div>
   );
 }
