@@ -1,0 +1,33 @@
+.contacto{
+	background-color: rgb(29, 56, 55);
+	height: 100vh;
+
+	}
+
+.contacto_contenedor{
+	display: flex;
+	text-align: center;
+	padding-top: 20px;
+	color: white;
+	background-color: rgb(56, 80, 131);
+	flex-direction: column;
+	width: auto;
+	
+	margin-top: 10%;
+
+}
+.contacto_contenedor > h4{
+	text-align: center;
+	font-size: 30px;
+}
+input{
+	text-align: center;
+	display: flex;
+	padding: 5px;
+	margin: 5px;
+}
+.nombre{
+	margin-top: 10px;
+	display: block;
+
+}
