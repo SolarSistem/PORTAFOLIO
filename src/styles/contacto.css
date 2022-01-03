@@ -27,7 +27,18 @@ input{
 	margin: 5px;
 }
 .nombre{
-	margin-top: 10px;
+	margin: 25%;
+	margin-bottom: 10px;
+	margin-top:10px;
 	display: block;
 
 }
+
+.correo{
+	margin: 25%;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	display: block;
+}
+
+
