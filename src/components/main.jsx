@@ -11,7 +11,7 @@ return(
 			<section className="contenedor">
      <div className="seccion1 caja1">
 						<h3>Sobre mi</h3>
-						<p>Hola, mi nombre es Walter Alejandro Toscano Delgado tengo 19 años y soy desarrollador web, dentro de lo que he logrado en estos ultimos años se puede resaltar crear una aplicasion para una empresa del sector de la conectividad wifi que permite el cambio de contraseña y gestion de usuario dentro de la empresa con la que tiene contratada el servicio de internet</p>
+						<p>Hola, mi nombre es Ismael Alexander Carvajal González tengo 25 años y soy desarrollador web, dentro de lo que he logrado en estos ultimos años se puede resaltar crear una aplicasion para una empresa del sector de la conectividad wifi que permite el cambio de contraseña y gestion de usuario dentro de la empresa con la que tiene contratada el servicio de internet</p>
 			</div>
 			</section>
 			<section className="contenedor2 ">
